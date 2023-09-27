@@ -4,6 +4,7 @@
 - Configured TailwindCSS
 - Header
 - Login Form
+- Sign up Form
 
 # Feature
  - Login/Sign Up
